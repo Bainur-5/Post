@@ -122,6 +122,7 @@ body{
     background-color: white;
     margin: .5%  2%;
     padding: 1%;
+    border-radius: 2%;
 }
 .user_name{
     width: 100%;

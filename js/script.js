@@ -197,8 +197,6 @@ function cardUser(user){
                 <p>Email: ${user.email}</p>
                 <p>Телефон: ${user.phone}</p>
                 <p>Сайт: ${user.website}</p>
-                <div class="user_adres" onclick="User(${user.id})">
-                </div>
             </div>
         </div>
    `
